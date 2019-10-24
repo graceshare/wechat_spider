@@ -4,7 +4,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/sundy-li/wechat_spider"
+	"github.com/graceshare/wechat_spider"
 
 	"github.com/elazarl/goproxy"
 )
